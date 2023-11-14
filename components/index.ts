@@ -5,6 +5,7 @@ import CarCard from "./CarCard";
 import CarDetails from "./CarDetails";
 import SearchBar from "./SearchBar";
 import CustomFilter from "./CustomFilter";
+import ShowMore from "./ShowMore";
 import CustomButton from "./CustomButton";
 import SearchManufacturer from "./SearchManufacturer";
 
@@ -18,4 +19,5 @@ export {
   SearchManufacturer,
   CarCard,
   CarDetails,
+  ShowMore,
 };
