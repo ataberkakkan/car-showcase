@@ -2,6 +2,7 @@ import Hero from "./Hero";
 import Navbar from "./Navbar";
 import Footer from "./Footer";
 import CarCard from "./CarCard";
+import CarDetails from "./CarDetails";
 import SearchBar from "./SearchBar";
 import CustomFilter from "./CustomFilter";
 import CustomButton from "./CustomButton";
@@ -16,4 +17,5 @@ export {
   CustomFilter,
   SearchManufacturer,
   CarCard,
+  CarDetails,
 };
